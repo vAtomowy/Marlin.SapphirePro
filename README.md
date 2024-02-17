@@ -10,7 +10,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 <p>Hardware setup:&nbsp;</p>
 <ul>
-<li>Nozzle: <span>Creality Spider&nbsp; &nbsp;/ 500 'C / up to:</span><span>&nbsp;250 mm/s&nbsp;</span></li>
+<li>Nozzle: <span>Creality Spider&nbsp; &nbsp;/ 500 &deg;C / up to:</span><span>&nbsp;250 mm/s&nbsp;</span></li>
 <li><span>Extruder: LDO Orbiter 1.5V</span></li>
 <li><span>Floor sensor: BlTouch - clone&nbsp;</span></li>
 <li><span>Mainboard: without changes - original by TwoTree&nbsp;</span></li>
