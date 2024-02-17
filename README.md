@@ -8,12 +8,12 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 ## MyFork for Sapphire Pro 3D printer
 
-<p>Hardware setup:&nbsp;</p>
+<p><span>The 'stock' branch contains the code for the stock hardware setup.</span></p>
+<p><span>My current hardware setup (presented below) is developed on the 'main' branch.</span></p>
 <ul>
 <li>Nozzle: <span>Creality Spider&nbsp; &nbsp;/ 500 &deg;C / up to:</span><span>&nbsp;250 mm/s&nbsp;</span></li>
 <li><span>Extruder: LDO Orbiter 1.5V</span></li>
 <li><span>Floor sensor: BlTouch - clone&nbsp;</span></li>
 <li><span>Mainboard: without changes - original by TwoTree&nbsp;</span></li>
-<li><span>StepSticks: TMC2209 V1.2 (All)</span><span></span></li>
+<li><span>StepSticks: TMC2209 V1.2 (All)</span></li>
 </ul>
-
