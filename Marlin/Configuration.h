@@ -687,13 +687,13 @@
  */
 #define X_DRIVER_TYPE  TMC2208_STANDALONE
 #define Y_DRIVER_TYPE  TMC2208_STANDALONE
-#define Z_DRIVER_TYPE  A4988
+#define Z_DRIVER_TYPE  TMC2209_STANDALONE
 //#define X2_DRIVER_TYPE A4988
 //#define Y2_DRIVER_TYPE A4988
 //#define Z2_DRIVER_TYPE A4988
 //#define Z3_DRIVER_TYPE A4988
 //#define Z4_DRIVER_TYPE A4988
-#define E0_DRIVER_TYPE A4988
+#define E0_DRIVER_TYPE TMC2209_STANDALONE
 //#define E1_DRIVER_TYPE A4988
 //#define E2_DRIVER_TYPE A4988
 //#define E3_DRIVER_TYPE A4988
@@ -1074,8 +1074,8 @@
 // :{ 0:'Low', 1:'High' }
 #define X_ENABLE_ON 0
 #define Y_ENABLE_ON 0
-#define Z_ENABLE_ON 0
-#define E_ENABLE_ON 0 // For all extruders
+#define Z_ENABLE_ON 1
+#define E_ENABLE_ON 1 // For all extruders
 
 // Disable axis steppers immediately when they're not being stepped.
 // WARNING: When motors turn off there is a chance of losing position accuracy!
